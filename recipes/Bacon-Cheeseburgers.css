@@ -1,0 +1,42 @@
+body{
+	background: #08a1ff;
+    background-image: url("onepiece.mp4");
+
+}
+.video{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.BaconCheese{
+    width: 500px;
+    height: 500px;
+}
+.description{
+    font-family: 'Times New Roman', Times, serif;
+}
+.ingredients{
+    font-family: 'Times New Roman', Times, serif;
+}
+.steps{
+    font-family: 'Times New Roman', Times, serif;
+}
+.list{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+.Front-page{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
